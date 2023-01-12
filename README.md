@@ -31,7 +31,7 @@ bash clean.sh
 
 ## Approach
 
-Between impelementing a multithreaded binary search tree or a hashmap, it seemed more interesting of a problem to pursue the binary search tree. This was the case; 
+Between implementing a multithreaded binary search tree or a hashmap, it seemed more interesting of a problem to pursue the binary search tree. This was the case; 
 however, my implementations were not able to scale properly. I had no issues with read scaling. I was not able to get writing to scale without introducing race conditions.
 I believe it is possible if using domain-knowledge of the tasks the other threads are completing and their place in the queue. Perhaps that is a problem to continue pursuing another day. 
 
