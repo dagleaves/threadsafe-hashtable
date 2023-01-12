@@ -1,5 +1,7 @@
 # Multithreaded Unordered HashMap
 
+A thread-safe hashmap written in C++ using pthreads. Achieves scaling for both read and write operations while ensuring thread-safety and correctness.
+
 ## Compilation
 
 To compile, run the following commands:
