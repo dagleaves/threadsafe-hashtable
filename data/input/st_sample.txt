@@ -1,0 +1,10 @@
+N 1
+I 34 "fred"
+I 35 "is"
+I 36 "happy"
+I 36 "tired"
+D 34
+L 35
+L 36
+L 63
+L 34
